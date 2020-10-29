@@ -1,7 +1,5 @@
 ## [License 2016 PDF](https://ipfs.io/ipfs/QmQNhgeMsNb8qh8QmAMuTd2KPTq4kTf9CsMxWEuQPtgvoF) | 
 
-<hr> 
-
 * TDD
 * decoupling
 * dependency injection
